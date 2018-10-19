@@ -1,0 +1,8 @@
+{
+  "name": "threeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "56a83739"
+}
